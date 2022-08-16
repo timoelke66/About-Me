@@ -1,0 +1,61 @@
+.top h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-align: center;
+    color: rgb(238, 39, 79);
+    }
+
+.page{
+    background-image:url('images/scout.jpg');
+    background-repeat: no-repeat;
+    background-size: 160%;
+}
+
+.para{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    text-align: left;
+    color: rgb(143, 45, 235);
+}
+
+.me_image{
+    float: right;
+    border: 5px #660404 solid;
+    border-radius: 15px;
+    color: #aa0404;
+    text-align: center;
+}
+
+.left{
+    float: left;
+        
+}
+
+    .hobbies{
+        text-align: center;
+        color: #c20909;
+        border: 5px solid rgb(153, 5, 5);
+        border-radius: 15px;
+    }
+
+    .likes{
+        text-align: center;
+        color: rgb(211, 91, 91);
+        border: 5px solid rgb(153, 5, 5);
+        border-radius: 15px;
+    }
+
+    .family{
+        text-align: center;
+        color: rgb(48, 4, 88);
+        border: 5px solid rgb(153, 5, 5);
+        border-radius: 15px;
+    }
+
+    .history{
+        text-align: center;
+        color: rgb(211, 183, 238);
+        border: 5px solid rgb(153, 5, 5);
+        border-radius: 15px;
+    }
